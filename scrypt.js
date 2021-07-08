@@ -2,8 +2,8 @@ const canvas = document.querySelector("canvas")
 const context = canvas.getContext("2d")
 
 
-// const bullets = document.createElement("img")
-// bullets.src="https://pngimg.com/uploads/bullets/bullets_PNG35557.png"
+const bullets = document.createElement("img")
+bullets.src="https://pngimg.com/uploads/bullets/bullets_PNG35557.png"
 
 const audio = document.createElement("audio")
 audio.src="http://www.vertigogaming.org/downloads/zps/sound/Weapons/Firearms/AK-47/ak-47_fire-01.wav"
